@@ -19,7 +19,7 @@ export const EmployeeList = ({ onEdit }) => {
 
   return (
     <div style={styles.container}>
-      <h1 style={styles.title}>EMPOYEE LIST</h1>
+      <h1 style={styles.title}>EMPLOYEE LIST</h1>
       <table style={styles.table}>
         <thead>
           <tr>
